@@ -21,4 +21,4 @@ Node.js · Express · MongoDB/Mongoose · JWT · Socket.IO · Redis/Bull · Vue 
 TypeScript · PostgreSQL · more testing · Docker
 
 ## Work with me
-📧 habeebabdul383@gmail.com · 💼 [LinkedIn link] · 🌐 [portfolio link]
+📧 habeebabdul383@gmail.com · 💼 linkedin.com/in/habeeb-abdulrahman ·
